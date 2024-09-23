@@ -1,0 +1,10 @@
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\EmreBaser.Lab2\EmreBaser.Lab2\obj\Debug\EmreBaser.Lab2.csproj.AssemblyReference.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\EmreBaser.Lab2\EmreBaser.Lab2\obj\Debug\EmreBaser.Lab2.Form1.resources
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\EmreBaser.Lab2\EmreBaser.Lab2\obj\Debug\EmreBaser.Lab2.Properties.Resources.resources
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\EmreBaser.Lab2\EmreBaser.Lab2\obj\Debug\EmreBaser.Lab2.csproj.GenerateResource.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\EmreBaser.Lab2\EmreBaser.Lab2\obj\Debug\EmreBaser.Lab2.csproj.CoreCompileInputs.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\EmreBaser.Lab2\EmreBaser.Lab2\bin\Debug\EmreBaser.Lab2.exe.config
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\EmreBaser.Lab2\EmreBaser.Lab2\bin\Debug\EmreBaser.Lab2.exe
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\EmreBaser.Lab2\EmreBaser.Lab2\bin\Debug\EmreBaser.Lab2.pdb
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\EmreBaser.Lab2\EmreBaser.Lab2\obj\Debug\EmreBaser.Lab2.exe
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\EmreBaser.Lab2\EmreBaser.Lab2\obj\Debug\EmreBaser.Lab2.pdb
